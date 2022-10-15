@@ -1,0 +1,2 @@
+# AngularProyect
+generando proyecto angular 
